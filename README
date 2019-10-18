@@ -1,0 +1,6 @@
+-The report for the project can be found in this folder with the name of Report.ipynb
+
+-The report uses a script called ReportAux.py that helps the to calculate the result of the experiments in the Report
+
+-Main module script helped us during the development of the miniproject as it acted as program that interacts with the user, it used to calculate more than one n-gram, and calculated the precision-recall
+curves for more than one n-gram.
